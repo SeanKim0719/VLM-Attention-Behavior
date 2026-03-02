@@ -1,0 +1,2637 @@
+{
+  "cat": [
+    {
+      "full": {
+        "base_confidence": 0.9837057590484619,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9837057590484619,
+          "a photo of a dog": 0.013153810985386372,
+          "a photo of a fox": 0.0011748946271836758,
+          "a photo of a wolf": 0.0005859475350007415,
+          "a photo of a tiger": 0.0013795590493828058
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9520524144172668,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9520524144172668,
+          "a photo of a dog": 0.03496696054935455,
+          "a photo of a fox": 0.004667043685913086,
+          "a photo of a wolf": 0.002684186212718487,
+          "a photo of a tiger": 0.005629271734505892
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.7369001507759094,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.7369001507759094,
+          "a photo of a dog": 0.09203827381134033,
+          "a photo of a fox": 0.13791333138942719,
+          "a photo of a wolf": 0.01988251507282257,
+          "a photo of a tiger": 0.01326582208275795
+        }
+      },
+      "center": {
+        "base_confidence": 0.975840151309967,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.975840151309967,
+          "a photo of a dog": 0.017430655658245087,
+          "a photo of a fox": 0.0009730340680107474,
+          "a photo of a wolf": 0.0011901437537744641,
+          "a photo of a tiger": 0.004565995652228594
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9374614953994751,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9374614953994751,
+          "a photo of a dog": 0.05044121295213699,
+          "a photo of a fox": 0.005859019700437784,
+          "a photo of a wolf": 0.003988400101661682,
+          "a photo of a tiger": 0.0022498194593936205
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.6590384840965271,
+        "adapted_confidence": 0.6786226630210876,
+        "all_categories": {
+          "a photo of a cat": 0.6590384840965271,
+          "a photo of a dog": 0.32764458656311035,
+          "a photo of a fox": 0.0006230318103916943,
+          "a photo of a wolf": 0.0042609237134456635,
+          "a photo of a tiger": 0.00843304954469204
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.6675094366073608,
+        "adapted_confidence": 0.6376993656158447,
+        "all_categories": {
+          "a photo of a cat": 0.6675094366073608,
+          "a photo of a dog": 0.2701878547668457,
+          "a photo of a fox": 0.027780788019299507,
+          "a photo of a wolf": 0.020230643451213837,
+          "a photo of a tiger": 0.014291244558990002
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9837057590484619,
+        "importance_map": {
+          "grid_0_0": 0.00539088249206543,
+          "grid_0_1": 0.0046176910400390625,
+          "grid_0_2": 0.003064095973968506,
+          "grid_0_3": 0.009168744087219238,
+          "grid_1_0": 0.013556182384490967,
+          "grid_1_1": 0.014052867889404297,
+          "grid_1_2": 0.0523909330368042,
+          "grid_1_3": 0.012616157531738281,
+          "grid_2_0": 0.013191938400268555,
+          "grid_2_1": 0.03662687540054321,
+          "grid_2_2": 0.02506798505783081,
+          "grid_2_3": 0.014644861221313477,
+          "grid_3_0": 0.024160683155059814,
+          "grid_3_1": 0.014041602611541748,
+          "grid_3_2": 0.0034388303756713867,
+          "grid_3_3": 0.011062204837799072
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [
+          "grid_1_2"
+        ],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\cat\\cat_1.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9918979406356812,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9918979406356812,
+          "a photo of a dog": 0.0028454444836825132,
+          "a photo of a fox": 0.0006534674321301281,
+          "a photo of a wolf": 0.0026467174757272005,
+          "a photo of a tiger": 0.001956468215212226
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.7853686809539795,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.7853686809539795,
+          "a photo of a dog": 0.041677989065647125,
+          "a photo of a fox": 0.10505361109972,
+          "a photo of a wolf": 0.06378571689128876,
+          "a photo of a tiger": 0.004114002920687199
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.9864085912704468,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9864085912704468,
+          "a photo of a dog": 0.003988427575677633,
+          "a photo of a fox": 0.00041902114753611386,
+          "a photo of a wolf": 0.002011445350944996,
+          "a photo of a tiger": 0.007172552868723869
+        }
+      },
+      "center": {
+        "base_confidence": 0.9828132390975952,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9828132390975952,
+          "a photo of a dog": 0.0074633341282606125,
+          "a photo of a fox": 0.0015970388194546103,
+          "a photo of a wolf": 0.005256131757050753,
+          "a photo of a tiger": 0.0028701748233288527
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9560243487358093,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9560243487358093,
+          "a photo of a dog": 0.018932675942778587,
+          "a photo of a fox": 0.0076162549667060375,
+          "a photo of a wolf": 0.008753524161875248,
+          "a photo of a tiger": 0.008673104457557201
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.9108150005340576,
+        "adapted_confidence": 0.6571565270423889,
+        "all_categories": {
+          "a photo of a cat": 0.9108150005340576,
+          "a photo of a dog": 0.015916071832180023,
+          "a photo of a fox": 0.008379553444683552,
+          "a photo of a wolf": 0.018817853182554245,
+          "a photo of a tiger": 0.04607154801487923
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.9487499594688416,
+        "adapted_confidence": 0.9263843894004822,
+        "all_categories": {
+          "a photo of a cat": 0.9487499594688416,
+          "a photo of a dog": 0.024954238906502724,
+          "a photo of a fox": 0.0046171266585588455,
+          "a photo of a wolf": 0.01355988159775734,
+          "a photo of a tiger": 0.008118919096887112
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9918979406356812,
+        "importance_map": {
+          "grid_0_0": 0.0005078315734863281,
+          "grid_0_1": 0.003162562847137451,
+          "grid_0_2": 0.002703070640563965,
+          "grid_0_3": 0.0019162297248840332,
+          "grid_1_0": 0.0006921887397766113,
+          "grid_1_1": 0.000408172607421875,
+          "grid_1_2": 0.005106091499328613,
+          "grid_1_3": 0.002239048480987549,
+          "grid_2_0": 0.0010390877723693848,
+          "grid_2_1": 0.0008043646812438965,
+          "grid_2_2": 0.015962183475494385,
+          "grid_2_3": 0.0022306442260742188,
+          "grid_3_0": 0.002072155475616455,
+          "grid_3_1": 0.0007533431053161621,
+          "grid_3_2": 0.0025094151496887207,
+          "grid_3_3": 0.002067863941192627
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\cat\\cat_2.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9637067914009094,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9637067914009094,
+          "a photo of a dog": 0.0026432673912495375,
+          "a photo of a fox": 0.00048718188190832734,
+          "a photo of a wolf": 0.0009619754273444414,
+          "a photo of a tiger": 0.032200731337070465
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9632567167282104,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9632567167282104,
+          "a photo of a dog": 0.006879300344735384,
+          "a photo of a fox": 0.0005115312524139881,
+          "a photo of a wolf": 0.0020045314449816942,
+          "a photo of a tiger": 0.027347857132554054
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.9330336451530457,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9330336451530457,
+          "a photo of a dog": 0.008922678418457508,
+          "a photo of a fox": 0.005690757185220718,
+          "a photo of a wolf": 0.01376867201179266,
+          "a photo of a tiger": 0.03858420252799988
+        }
+      },
+      "center": {
+        "base_confidence": 0.9551664590835571,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9551664590835571,
+          "a photo of a dog": 0.004516927991062403,
+          "a photo of a fox": 0.0009567549568600953,
+          "a photo of a wolf": 0.0024131762329488993,
+          "a photo of a tiger": 0.03694671392440796
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9564914703369141,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9564914703369141,
+          "a photo of a dog": 0.024696260690689087,
+          "a photo of a fox": 0.0016222690464928746,
+          "a photo of a wolf": 0.005677155684679747,
+          "a photo of a tiger": 0.011512703262269497
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.9693059325218201,
+        "adapted_confidence": 0.9152595400810242,
+        "all_categories": {
+          "a photo of a cat": 0.9693059325218201,
+          "a photo of a dog": 0.008526541292667389,
+          "a photo of a fox": 0.003333969274535775,
+          "a photo of a wolf": 0.003192187985405326,
+          "a photo of a tiger": 0.01564139313995838
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.9750706553459167,
+        "adapted_confidence": 0.9798714518547058,
+        "all_categories": {
+          "a photo of a cat": 0.9750706553459167,
+          "a photo of a dog": 0.008180801756680012,
+          "a photo of a fox": 0.00065083202207461,
+          "a photo of a wolf": 0.0009105578646995127,
+          "a photo of a tiger": 0.015187099575996399
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9637067914009094,
+        "importance_map": {
+          "grid_0_0": 0.0011866092681884766,
+          "grid_0_1": -0.003163278102874756,
+          "grid_0_2": -0.009751439094543457,
+          "grid_0_3": 0.0015257596969604492,
+          "grid_1_0": -0.0006837248802185059,
+          "grid_1_1": -0.011844873428344727,
+          "grid_1_2": -0.017062246799468994,
+          "grid_1_3": -0.006246626377105713,
+          "grid_2_0": 0.004067838191986084,
+          "grid_2_1": -0.010344326496124268,
+          "grid_2_2": -0.017111599445343018,
+          "grid_2_3": 0.0010445713996887207,
+          "grid_3_0": -0.004750669002532959,
+          "grid_3_1": -0.0013788342475891113,
+          "grid_3_2": -0.012620627880096436,
+          "grid_3_3": 0.0014151334762573242
+        },
+        "pattern": "Global-Distributed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\cat\\cat_3.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.6662043333053589,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.6662043333053589,
+          "a photo of a dog": 0.005212671589106321,
+          "a photo of a fox": 0.01932053081691265,
+          "a photo of a wolf": 0.0032076018396764994,
+          "a photo of a tiger": 0.30605486035346985
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.7828746438026428,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.7828746438026428,
+          "a photo of a dog": 0.04321735352277756,
+          "a photo of a fox": 0.0489656999707222,
+          "a photo of a wolf": 0.02443269081413746,
+          "a photo of a tiger": 0.10050962120294571
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.890760064125061,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.890760064125061,
+          "a photo of a dog": 0.033913079649209976,
+          "a photo of a fox": 0.022146891802549362,
+          "a photo of a wolf": 0.013039219193160534,
+          "a photo of a tiger": 0.04014072194695473
+        }
+      },
+      "center": {
+        "base_confidence": 0.9244236946105957,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9244236946105957,
+          "a photo of a dog": 0.005709418561309576,
+          "a photo of a fox": 0.01169904600828886,
+          "a photo of a wolf": 0.0007444522343575954,
+          "a photo of a tiger": 0.05742337927222252
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.05961159989237785,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.05961159989237785,
+          "a photo of a dog": 0.40285810828208923,
+          "a photo of a fox": 0.06404473632574081,
+          "a photo of a wolf": 0.448461651802063,
+          "a photo of a tiger": 0.025023894384503365
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.6725434064865112,
+        "adapted_confidence": 0.39746224880218506,
+        "all_categories": {
+          "a photo of a cat": 0.6725434064865112,
+          "a photo of a dog": 0.14729924499988556,
+          "a photo of a fox": 0.00639729481190443,
+          "a photo of a wolf": 0.03976273909211159,
+          "a photo of a tiger": 0.13399730622768402
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.6499443054199219,
+        "adapted_confidence": 0.4758068919181824,
+        "all_categories": {
+          "a photo of a cat": 0.6499443054199219,
+          "a photo of a dog": 0.13684460520744324,
+          "a photo of a fox": 0.09323380887508392,
+          "a photo of a wolf": 0.052657462656497955,
+          "a photo of a tiger": 0.06731986999511719
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.6662043333053589,
+        "importance_map": {
+          "grid_0_0": -0.032269060611724854,
+          "grid_0_1": -0.14782816171646118,
+          "grid_0_2": -0.1706206202507019,
+          "grid_0_3": -0.08637535572052002,
+          "grid_1_0": -0.013154089450836182,
+          "grid_1_1": -0.18119561672210693,
+          "grid_1_2": -0.2244296669960022,
+          "grid_1_3": -0.0776471495628357,
+          "grid_2_0": -0.03744727373123169,
+          "grid_2_1": -0.12352728843688965,
+          "grid_2_2": -0.2913026809692383,
+          "grid_2_3": -0.08769869804382324,
+          "grid_3_0": -0.062124550342559814,
+          "grid_3_1": -0.1541987657546997,
+          "grid_3_2": -0.21968364715576172,
+          "grid_3_3": 0.0017165541648864746
+        },
+        "pattern": "Interference-Present",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\cat\\cat_4.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9282273650169373,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9282273650169373,
+          "a photo of a dog": 0.010435095988214016,
+          "a photo of a fox": 0.0035301458556205034,
+          "a photo of a wolf": 0.00024677629698999226,
+          "a photo of a tiger": 0.05756065249443054
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9283832907676697,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9283832907676697,
+          "a photo of a dog": 0.012211482040584087,
+          "a photo of a fox": 0.004469644278287888,
+          "a photo of a wolf": 0.000671428453642875,
+          "a photo of a tiger": 0.054264169186353683
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.8612586855888367,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.8612586855888367,
+          "a photo of a dog": 0.007478186395019293,
+          "a photo of a fox": 0.002028067596256733,
+          "a photo of a wolf": 0.0002254545543109998,
+          "a photo of a tiger": 0.12900960445404053
+        }
+      },
+      "center": {
+        "base_confidence": 0.9725819826126099,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.9725819826126099,
+          "a photo of a dog": 0.005906218662858009,
+          "a photo of a fox": 0.0013720344286412,
+          "a photo of a wolf": 0.00013361719902604818,
+          "a photo of a tiger": 0.020006144419312477
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.6618728041648865,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.6618728041648865,
+          "a photo of a dog": 0.0935332328081131,
+          "a photo of a fox": 0.14941608905792236,
+          "a photo of a wolf": 0.004335971549153328,
+          "a photo of a tiger": 0.09084194153547287
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.9315494894981384,
+        "adapted_confidence": 0.7517656087875366,
+        "all_categories": {
+          "a photo of a cat": 0.9315494894981384,
+          "a photo of a dog": 0.011998268775641918,
+          "a photo of a fox": 0.0069447532296180725,
+          "a photo of a wolf": 0.0036019287072122097,
+          "a photo of a tiger": 0.04590554162859917
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.9132050275802612,
+        "adapted_confidence": 0.8928833603858948,
+        "all_categories": {
+          "a photo of a cat": 0.9132050275802612,
+          "a photo of a dog": 0.038745179772377014,
+          "a photo of a fox": 0.010518936440348625,
+          "a photo of a wolf": 0.001845524413511157,
+          "a photo of a tiger": 0.03568536043167114
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9282273650169373,
+        "importance_map": {
+          "grid_0_0": 0.004041850566864014,
+          "grid_0_1": -0.00035512447357177734,
+          "grid_0_2": 0.00893855094909668,
+          "grid_0_3": 0.00462496280670166,
+          "grid_1_0": -0.0037932991981506348,
+          "grid_1_1": -0.0011990666389465332,
+          "grid_1_2": 0.0046045780181884766,
+          "grid_1_3": 0.010329008102416992,
+          "grid_2_0": 0.004117608070373535,
+          "grid_2_1": -0.019245147705078125,
+          "grid_2_2": -0.011573314666748047,
+          "grid_2_3": 0.014233231544494629,
+          "grid_3_0": 0.01879066228866577,
+          "grid_3_1": -0.013511121273040771,
+          "grid_3_2": 0.02027207612991333,
+          "grid_3_3": 0.030850708484649658
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\cat\\cat_5.jpg"
+    }
+  ],
+  "dog": [
+    {
+      "full": {
+        "base_confidence": 0.9920089244842529,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0012473688693717122,
+          "a photo of a dog": 0.9920089244842529,
+          "a photo of a fox": 0.0009934123372659087,
+          "a photo of a wolf": 0.0025366367772221565,
+          "a photo of a tiger": 0.003213687101379037
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9844687581062317,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.003549864748492837,
+          "a photo of a dog": 0.9844687581062317,
+          "a photo of a fox": 0.0012295482447370887,
+          "a photo of a wolf": 0.005362912081182003,
+          "a photo of a tiger": 0.005388925783336163
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.8743023872375488,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.019492989405989647,
+          "a photo of a dog": 0.8743023872375488,
+          "a photo of a fox": 0.03482631593942642,
+          "a photo of a wolf": 0.04426126182079315,
+          "a photo of a tiger": 0.02711707353591919
+        }
+      },
+      "center": {
+        "base_confidence": 0.9940716624259949,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0011146507458761334,
+          "a photo of a dog": 0.9940716624259949,
+          "a photo of a fox": 0.0006279215449467301,
+          "a photo of a wolf": 0.0024953007232397795,
+          "a photo of a tiger": 0.0016904898220673203
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.753555953502655,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.1446230113506317,
+          "a photo of a dog": 0.753555953502655,
+          "a photo of a fox": 0.06021692603826523,
+          "a photo of a wolf": 0.03788956254720688,
+          "a photo of a tiger": 0.0037145072128623724
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.9864131212234497,
+        "adapted_confidence": 0.974835991859436,
+        "all_categories": {
+          "a photo of a cat": 0.005632726941257715,
+          "a photo of a dog": 0.9864131212234497,
+          "a photo of a fox": 0.00012069544027326629,
+          "a photo of a wolf": 0.003360972972586751,
+          "a photo of a tiger": 0.0044724829494953156
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.9731625914573669,
+        "adapted_confidence": 0.9432517886161804,
+        "all_categories": {
+          "a photo of a cat": 0.003673932747915387,
+          "a photo of a dog": 0.9731625914573669,
+          "a photo of a fox": 0.0027054459787905216,
+          "a photo of a wolf": 0.010442271828651428,
+          "a photo of a tiger": 0.010015684179961681
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9920089244842529,
+        "importance_map": {
+          "grid_0_0": -2.8014183044433594e-05,
+          "grid_0_1": -0.0003656744956970215,
+          "grid_0_2": -0.001125931739807129,
+          "grid_0_3": -0.0005986690521240234,
+          "grid_1_0": 0.0025098323822021484,
+          "grid_1_1": 4.869699478149414e-05,
+          "grid_1_2": -0.0016356706619262695,
+          "grid_1_3": -0.0005034208297729492,
+          "grid_2_0": 0.001623392105102539,
+          "grid_2_1": -0.0006430745124816895,
+          "grid_2_2": -0.002669215202331543,
+          "grid_2_3": -0.0005220770835876465,
+          "grid_3_0": 9.745359420776367e-05,
+          "grid_3_1": -0.0020418763160705566,
+          "grid_3_2": -0.002433478832244873,
+          "grid_3_3": 0.00023537874221801758
+        },
+        "pattern": "Global-Distributed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\dog\\dog_1.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9643856287002563,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.009868835099041462,
+          "a photo of a dog": 0.9643856287002563,
+          "a photo of a fox": 0.004357779864221811,
+          "a photo of a wolf": 0.007308982778340578,
+          "a photo of a tiger": 0.01407878939062357
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9820782542228699,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.006702884566038847,
+          "a photo of a dog": 0.9820782542228699,
+          "a photo of a fox": 0.00046147420653142035,
+          "a photo of a wolf": 0.007408514153212309,
+          "a photo of a tiger": 0.003348865546286106
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.32732251286506653,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.07668246328830719,
+          "a photo of a dog": 0.32732251286506653,
+          "a photo of a fox": 0.18040402233600616,
+          "a photo of a wolf": 0.1063968762755394,
+          "a photo of a tiger": 0.3091942369937897
+        }
+      },
+      "center": {
+        "base_confidence": 0.959233283996582,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.009603654965758324,
+          "a photo of a dog": 0.959233283996582,
+          "a photo of a fox": 0.007483943365514278,
+          "a photo of a wolf": 0.012181282043457031,
+          "a photo of a tiger": 0.011497841216623783
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9895247220993042,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.003533778013661504,
+          "a photo of a dog": 0.9895247220993042,
+          "a photo of a fox": 0.00028560354257933795,
+          "a photo of a wolf": 0.0026021332014352083,
+          "a photo of a tiger": 0.004053846001625061
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.6670504212379456,
+        "adapted_confidence": 0.4032139480113983,
+        "all_categories": {
+          "a photo of a cat": 0.10015632957220078,
+          "a photo of a dog": 0.6670504212379456,
+          "a photo of a fox": 0.0028663473203778267,
+          "a photo of a wolf": 0.020954621955752373,
+          "a photo of a tiger": 0.20897237956523895
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.9261338114738464,
+        "adapted_confidence": 0.9022499918937683,
+        "all_categories": {
+          "a photo of a cat": 0.018487723544239998,
+          "a photo of a dog": 0.9261338114738464,
+          "a photo of a fox": 0.008953594602644444,
+          "a photo of a wolf": 0.013006595894694328,
+          "a photo of a tiger": 0.033418186008930206
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9643856287002563,
+        "importance_map": {
+          "grid_0_0": -0.0048520565032958984,
+          "grid_0_1": -0.007662832736968994,
+          "grid_0_2": 0.027481555938720703,
+          "grid_0_3": -0.004039287567138672,
+          "grid_1_0": -0.004375576972961426,
+          "grid_1_1": -0.020992636680603027,
+          "grid_1_2": -0.015331447124481201,
+          "grid_1_3": -0.00832456350326538,
+          "grid_2_0": -0.0036701560020446777,
+          "grid_2_1": -0.013369739055633545,
+          "grid_2_2": -0.010098874568939209,
+          "grid_2_3": -0.0084913969039917,
+          "grid_3_0": 0.00017070770263671875,
+          "grid_3_1": 0.007164418697357178,
+          "grid_3_2": 0.004611849784851074,
+          "grid_3_3": -0.002803325653076172
+        },
+        "pattern": "Interference-Present",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\dog\\dog_2.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.7324028015136719,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.007906808517873287,
+          "a photo of a dog": 0.7324028015136719,
+          "a photo of a fox": 0.11898431181907654,
+          "a photo of a wolf": 0.1393532007932663,
+          "a photo of a tiger": 0.0013528141425922513
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.1220981776714325,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.7968652844429016,
+          "a photo of a dog": 0.1220981776714325,
+          "a photo of a fox": 0.0640285536646843,
+          "a photo of a wolf": 0.011026879772543907,
+          "a photo of a tiger": 0.005981127731502056
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.920079231262207,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.04517379030585289,
+          "a photo of a dog": 0.920079231262207,
+          "a photo of a fox": 0.0029143132269382477,
+          "a photo of a wolf": 0.02290527895092964,
+          "a photo of a tiger": 0.008927286602556705
+        }
+      },
+      "center": {
+        "base_confidence": 0.9327290654182434,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0031503194477409124,
+          "a photo of a dog": 0.9327290654182434,
+          "a photo of a fox": 0.016996847465634346,
+          "a photo of a wolf": 0.04657045379281044,
+          "a photo of a tiger": 0.0005532545619644225
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.3958200216293335,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.4749169945716858,
+          "a photo of a dog": 0.3958200216293335,
+          "a photo of a fox": 0.09729430079460144,
+          "a photo of a wolf": 0.028276747092604637,
+          "a photo of a tiger": 0.0036918027326464653
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.23776736855506897,
+        "adapted_confidence": 0.0915282666683197,
+        "all_categories": {
+          "a photo of a cat": 0.09879927337169647,
+          "a photo of a dog": 0.23776736855506897,
+          "a photo of a fox": 0.2523418664932251,
+          "a photo of a wolf": 0.40875232219696045,
+          "a photo of a tiger": 0.0023391619324684143
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.8341089487075806,
+        "adapted_confidence": 0.5865546464920044,
+        "all_categories": {
+          "a photo of a cat": 0.023601766675710678,
+          "a photo of a dog": 0.8341089487075806,
+          "a photo of a fox": 0.06477706879377365,
+          "a photo of a wolf": 0.07422536611557007,
+          "a photo of a tiger": 0.003286919556558132
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.7324028015136719,
+        "importance_map": {
+          "grid_0_0": -0.11206698417663574,
+          "grid_0_1": -0.024118542671203613,
+          "grid_0_2": 0.0007276535034179688,
+          "grid_0_3": -0.004934847354888916,
+          "grid_1_0": -0.000978231430053711,
+          "grid_1_1": -0.05647224187850952,
+          "grid_1_2": -0.17708450555801392,
+          "grid_1_3": 0.010989248752593994,
+          "grid_2_0": -0.01665043830871582,
+          "grid_2_1": 0.015245676040649414,
+          "grid_2_2": -0.05489170551300049,
+          "grid_2_3": 0.00922483205795288,
+          "grid_3_0": -0.027571678161621094,
+          "grid_3_1": -0.03141564130783081,
+          "grid_3_2": -0.029088199138641357,
+          "grid_3_3": 0.016985952854156494
+        },
+        "pattern": "Interference-Present",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\dog\\dog_3.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9896861910820007,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.001957366243004799,
+          "a photo of a dog": 0.9896861910820007,
+          "a photo of a fox": 0.0003386180615052581,
+          "a photo of a wolf": 0.007613840512931347,
+          "a photo of a tiger": 0.00040399006684310734
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9460620284080505,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.006197524257004261,
+          "a photo of a dog": 0.9460620284080505,
+          "a photo of a fox": 0.0017789527773857117,
+          "a photo of a wolf": 0.043134208768606186,
+          "a photo of a tiger": 0.0028272555209696293
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.825681209564209,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.04544873163104057,
+          "a photo of a dog": 0.825681209564209,
+          "a photo of a fox": 0.027108775451779366,
+          "a photo of a wolf": 0.09600561112165451,
+          "a photo of a tiger": 0.005755663383752108
+        }
+      },
+      "center": {
+        "base_confidence": 0.944176197052002,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.016598185524344444,
+          "a photo of a dog": 0.944176197052002,
+          "a photo of a fox": 0.005057083908468485,
+          "a photo of a wolf": 0.030365897342562675,
+          "a photo of a tiger": 0.003802622901275754
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9886903762817383,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.001411412376910448,
+          "a photo of a dog": 0.9886903762817383,
+          "a photo of a fox": 0.0006349853938445449,
+          "a photo of a wolf": 0.008372992277145386,
+          "a photo of a tiger": 0.0008902193512767553
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.4654349684715271,
+        "adapted_confidence": 0.1461331993341446,
+        "all_categories": {
+          "a photo of a cat": 0.0649275854229927,
+          "a photo of a dog": 0.4654349684715271,
+          "a photo of a fox": 0.041114602237939835,
+          "a photo of a wolf": 0.3564273715019226,
+          "a photo of a tiger": 0.07209549844264984
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.9428039789199829,
+        "adapted_confidence": 0.8508110642433167,
+        "all_categories": {
+          "a photo of a cat": 0.017335740849375725,
+          "a photo of a dog": 0.9428039789199829,
+          "a photo of a fox": 0.004959720652550459,
+          "a photo of a wolf": 0.03210175409913063,
+          "a photo of a tiger": 0.0027987780049443245
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9896861910820007,
+        "importance_map": {
+          "grid_0_0": 0.003376901149749756,
+          "grid_0_1": 0.01017916202545166,
+          "grid_0_2": -0.002923727035522461,
+          "grid_0_3": -0.0006865859031677246,
+          "grid_1_0": -0.002513885498046875,
+          "grid_1_1": 0.007530927658081055,
+          "grid_1_2": -0.0019649267196655273,
+          "grid_1_3": -0.0012316703796386719,
+          "grid_2_0": -0.00034177303314208984,
+          "grid_2_1": 0.0015723705291748047,
+          "grid_2_2": -0.0006777048110961914,
+          "grid_2_3": 0.0014064908027648926,
+          "grid_3_0": -0.00013047456741333008,
+          "grid_3_1": -0.0007635354995727539,
+          "grid_3_2": 0.0016402602195739746,
+          "grid_3_3": 0.0020318031311035156
+        },
+        "pattern": "Local-Focused",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\dog\\dog_4.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9858847260475159,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0009218249469995499,
+          "a photo of a dog": 0.9858847260475159,
+          "a photo of a fox": 0.0008581036236137152,
+          "a photo of a wolf": 0.010883782058954239,
+          "a photo of a tiger": 0.0014515375951305032
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9769617915153503,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0030567781068384647,
+          "a photo of a dog": 0.9769617915153503,
+          "a photo of a fox": 0.00215619127266109,
+          "a photo of a wolf": 0.01443320233374834,
+          "a photo of a tiger": 0.003391990438103676
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.5474878549575806,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.012685107067227364,
+          "a photo of a dog": 0.5474878549575806,
+          "a photo of a fox": 0.0485602542757988,
+          "a photo of a wolf": 0.3784945011138916,
+          "a photo of a tiger": 0.012772290036082268
+        }
+      },
+      "center": {
+        "base_confidence": 0.8763763904571533,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.002633957425132394,
+          "a photo of a dog": 0.8763763904571533,
+          "a photo of a fox": 0.03234872594475746,
+          "a photo of a wolf": 0.08668781816959381,
+          "a photo of a tiger": 0.0019530650461092591
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9096079468727112,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.039164360612630844,
+          "a photo of a dog": 0.9096079468727112,
+          "a photo of a fox": 0.018641581758856773,
+          "a photo of a wolf": 0.032056909054517746,
+          "a photo of a tiger": 0.0005292588612064719
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.8947426676750183,
+        "adapted_confidence": 0.8181254267692566,
+        "all_categories": {
+          "a photo of a cat": 0.07180862873792648,
+          "a photo of a dog": 0.8947426676750183,
+          "a photo of a fox": 0.004014696925878525,
+          "a photo of a wolf": 0.013930166140198708,
+          "a photo of a tiger": 0.015503838658332825
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.936016321182251,
+        "adapted_confidence": 0.8080546855926514,
+        "all_categories": {
+          "a photo of a cat": 0.005046728067100048,
+          "a photo of a dog": 0.936016321182251,
+          "a photo of a fox": 0.0064101433381438255,
+          "a photo of a wolf": 0.04741308465600014,
+          "a photo of a tiger": 0.005113712511956692
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9858847260475159,
+        "importance_map": {
+          "grid_0_0": -0.003727436065673828,
+          "grid_0_1": 0.026938557624816895,
+          "grid_0_2": -0.0045577287673950195,
+          "grid_0_3": -0.002664029598236084,
+          "grid_1_0": 0.0029870271682739258,
+          "grid_1_1": -0.006700038909912109,
+          "grid_1_2": -0.0023140311241149902,
+          "grid_1_3": 0.0002294778823852539,
+          "grid_2_0": 0.000486910343170166,
+          "grid_2_1": 0.00032514333724975586,
+          "grid_2_2": -0.0038472414016723633,
+          "grid_2_3": 0.000202178955078125,
+          "grid_3_0": -0.0020002126693725586,
+          "grid_3_1": -0.0004305243492126465,
+          "grid_3_2": -0.0005913972854614258,
+          "grid_3_3": -0.0013077855110168457
+        },
+        "pattern": "Local-Focused",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\dog\\dog_5.jpg"
+    }
+  ],
+  "fox": [
+    {
+      "full": {
+        "base_confidence": 0.9987121820449829,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0003842200094368309,
+          "a photo of a dog": 0.0002308381226612255,
+          "a photo of a fox": 0.9987121820449829,
+          "a photo of a wolf": 0.0005941513809375465,
+          "a photo of a tiger": 7.861455378588289e-05
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.11330530047416687,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.8053992986679077,
+          "a photo of a dog": 0.01013803668320179,
+          "a photo of a fox": 0.11330530047416687,
+          "a photo of a wolf": 0.0133744515478611,
+          "a photo of a tiger": 0.05778300017118454
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.9957363605499268,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0016673322534188628,
+          "a photo of a dog": 0.0006096797296777368,
+          "a photo of a fox": 0.9957363605499268,
+          "a photo of a wolf": 0.001676145358942449,
+          "a photo of a tiger": 0.00031042969203554094
+        }
+      },
+      "center": {
+        "base_confidence": 0.9979904890060425,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00044611041084863245,
+          "a photo of a dog": 0.0005231359973549843,
+          "a photo of a fox": 0.9979904890060425,
+          "a photo of a wolf": 0.0009509173687547445,
+          "a photo of a tiger": 8.932373020797968e-05
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.8869051337242126,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.030756251886487007,
+          "a photo of a dog": 0.02387203462421894,
+          "a photo of a fox": 0.8869051337242126,
+          "a photo of a wolf": 0.04590839147567749,
+          "a photo of a tiger": 0.01255819946527481
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.3318236172199249,
+        "adapted_confidence": 0.32535526156425476,
+        "all_categories": {
+          "a photo of a cat": 0.08671322464942932,
+          "a photo of a dog": 0.17898494005203247,
+          "a photo of a fox": 0.3318236172199249,
+          "a photo of a wolf": 0.32113635540008545,
+          "a photo of a tiger": 0.08134184777736664
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.941027045249939,
+        "adapted_confidence": 0.9657047986984253,
+        "all_categories": {
+          "a photo of a cat": 0.016340864822268486,
+          "a photo of a dog": 0.00485630938783288,
+          "a photo of a fox": 0.941027045249939,
+          "a photo of a wolf": 0.02232547663152218,
+          "a photo of a tiger": 0.0154503732919693
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9987121820449829,
+        "importance_map": {
+          "grid_0_0": 0.00038188695907592773,
+          "grid_0_1": 0.0003980398178100586,
+          "grid_0_2": 0.0006473660469055176,
+          "grid_0_3": 0.0002219676971435547,
+          "grid_1_0": 7.551908493041992e-05,
+          "grid_1_1": 0.0012790560722351074,
+          "grid_1_2": 0.003598630428314209,
+          "grid_1_3": 0.00032532215118408203,
+          "grid_2_0": 0.000973820686340332,
+          "grid_2_1": 0.0010263919830322266,
+          "grid_2_2": 0.005594015121459961,
+          "grid_2_3": 0.00026482343673706055,
+          "grid_3_0": 0.0006447434425354004,
+          "grid_3_1": 0.0024390220642089844,
+          "grid_3_2": 0.0016952753067016602,
+          "grid_3_3": 0.0004082918167114258
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\fox\\fox_1.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9971569776535034,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0001980833912966773,
+          "a photo of a dog": 0.0006081286701373756,
+          "a photo of a fox": 0.9971569776535034,
+          "a photo of a wolf": 0.001965989824384451,
+          "a photo of a tiger": 7.088279380695894e-05
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9942434430122375,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0014828040730208158,
+          "a photo of a dog": 0.0008630004595033824,
+          "a photo of a fox": 0.9942434430122375,
+          "a photo of a wolf": 0.00320843025110662,
+          "a photo of a tiger": 0.00020232101087458432
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.9555678367614746,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.001009336905553937,
+          "a photo of a dog": 0.018976731225848198,
+          "a photo of a fox": 0.9555678367614746,
+          "a photo of a wolf": 0.022597536444664,
+          "a photo of a tiger": 0.0018486001063138247
+        }
+      },
+      "center": {
+        "base_confidence": 0.9805357456207275,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0004720330471172929,
+          "a photo of a dog": 0.004394147545099258,
+          "a photo of a fox": 0.9805357456207275,
+          "a photo of a wolf": 0.014406399801373482,
+          "a photo of a tiger": 0.0001916133624035865
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9948934316635132,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00026920641539618373,
+          "a photo of a dog": 0.0016408690717071295,
+          "a photo of a fox": 0.9948934316635132,
+          "a photo of a wolf": 0.0030734329484403133,
+          "a photo of a tiger": 0.00012305061682127416
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.6693404912948608,
+        "adapted_confidence": 0.6675626039505005,
+        "all_categories": {
+          "a photo of a cat": 0.032630305737257004,
+          "a photo of a dog": 0.12804177403450012,
+          "a photo of a fox": 0.6693404912948608,
+          "a photo of a wolf": 0.16391415894031525,
+          "a photo of a tiger": 0.006073370575904846
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.8043612837791443,
+        "adapted_confidence": 0.898894727230072,
+        "all_categories": {
+          "a photo of a cat": 0.0489073283970356,
+          "a photo of a dog": 0.08619038015604019,
+          "a photo of a fox": 0.8043612837791443,
+          "a photo of a wolf": 0.04438190162181854,
+          "a photo of a tiger": 0.016159117221832275
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9971569776535034,
+        "importance_map": {
+          "grid_0_0": 0.000763237476348877,
+          "grid_0_1": 0.000897526741027832,
+          "grid_0_2": -3.141164779663086e-05,
+          "grid_0_3": 0.0001742243766784668,
+          "grid_1_0": 0.0002849698066711426,
+          "grid_1_1": -0.000519096851348877,
+          "grid_1_2": 0.00024449825286865234,
+          "grid_1_3": -0.0006808638572692871,
+          "grid_2_0": 0.0007638335227966309,
+          "grid_2_1": -0.0003694891929626465,
+          "grid_2_2": 0.0024965405464172363,
+          "grid_2_3": 0.0001609325408935547,
+          "grid_3_0": 0.000141143798828125,
+          "grid_3_1": 0.0010421276092529297,
+          "grid_3_2": 0.001655876636505127,
+          "grid_3_3": 0.0010483860969543457
+        },
+        "pattern": "Global-Distributed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\fox\\fox_2.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9988468885421753,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00019326049368828535,
+          "a photo of a dog": 0.00036489704507403076,
+          "a photo of a fox": 0.9988468885421753,
+          "a photo of a wolf": 0.0005182573804631829,
+          "a photo of a tiger": 7.67124438425526e-05
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9970355033874512,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0006257895147427917,
+          "a photo of a dog": 0.0004562134272418916,
+          "a photo of a fox": 0.9970355033874512,
+          "a photo of a wolf": 0.0016616195207461715,
+          "a photo of a tiger": 0.00022100713977124542
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.9974473714828491,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00036651105619966984,
+          "a photo of a dog": 0.0010498639894649386,
+          "a photo of a fox": 0.9974473714828491,
+          "a photo of a wolf": 0.0007873112917877734,
+          "a photo of a tiger": 0.0003489297232590616
+        }
+      },
+      "center": {
+        "base_confidence": 0.9986022114753723,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00032195085077546537,
+          "a photo of a dog": 0.00032665429171174765,
+          "a photo of a fox": 0.9986022114753723,
+          "a photo of a wolf": 0.0005603661993518472,
+          "a photo of a tiger": 0.00018876942340284586
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9943759441375732,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0004673250368796289,
+          "a photo of a dog": 0.0017375190509483218,
+          "a photo of a fox": 0.9943759441375732,
+          "a photo of a wolf": 0.002880590269342065,
+          "a photo of a tiger": 0.0005386537523008883
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.04439434036612511,
+        "adapted_confidence": 0.11580199003219604,
+        "all_categories": {
+          "a photo of a cat": 0.7891646027565002,
+          "a photo of a dog": 0.1296808272600174,
+          "a photo of a fox": 0.04439434036612511,
+          "a photo of a wolf": 0.019672947004437447,
+          "a photo of a tiger": 0.017087360844016075
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.9768358469009399,
+        "adapted_confidence": 0.9894758462905884,
+        "all_categories": {
+          "a photo of a cat": 0.004070562776178122,
+          "a photo of a dog": 0.004673737566918135,
+          "a photo of a fox": 0.9768358469009399,
+          "a photo of a wolf": 0.010856282897293568,
+          "a photo of a tiger": 0.0035635423846542835
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9988468885421753,
+        "importance_map": {
+          "grid_0_0": 0.00041925907135009766,
+          "grid_0_1": 0.0018678903579711914,
+          "grid_0_2": 0.0014434456825256348,
+          "grid_0_3": 0.00020736455917358398,
+          "grid_1_0": 0.0005485415458679199,
+          "grid_1_1": -4.786252975463867e-05,
+          "grid_1_2": 0.003509044647216797,
+          "grid_1_3": 0.00042188167572021484,
+          "grid_2_0": 0.0011510252952575684,
+          "grid_2_1": 0.002487480640411377,
+          "grid_2_2": 0.0019723176956176758,
+          "grid_2_3": 0.0007418394088745117,
+          "grid_3_0": 6.157159805297852e-05,
+          "grid_3_1": 0.0006783008575439453,
+          "grid_3_2": 0.0005441904067993164,
+          "grid_3_3": 0.00026738643646240234
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\fox\\fox_3.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9664562344551086,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.005945079494267702,
+          "a photo of a dog": 0.0024938308633863926,
+          "a photo of a fox": 0.9664562344551086,
+          "a photo of a wolf": 0.02416662499308586,
+          "a photo of a tiger": 0.0009382613934576511
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.956914484500885,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0014157614205032587,
+          "a photo of a dog": 0.002890936331823468,
+          "a photo of a fox": 0.956914484500885,
+          "a photo of a wolf": 0.03823746740818024,
+          "a photo of a tiger": 0.0005413952749222517
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.2167373150587082,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.012296289205551147,
+          "a photo of a dog": 0.06378321349620819,
+          "a photo of a fox": 0.2167373150587082,
+          "a photo of a wolf": 0.593786358833313,
+          "a photo of a tiger": 0.11339681595563889
+        }
+      },
+      "center": {
+        "base_confidence": 0.0930086299777031,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00035149275208823383,
+          "a photo of a dog": 0.036097511649131775,
+          "a photo of a fox": 0.0930086299777031,
+          "a photo of a wolf": 0.8700886368751526,
+          "a photo of a tiger": 0.0004536351189017296
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9610713124275208,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0013356858398765326,
+          "a photo of a dog": 0.0037126631941646338,
+          "a photo of a fox": 0.9610713124275208,
+          "a photo of a wolf": 0.03347038850188255,
+          "a photo of a tiger": 0.00040996220195665956
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.04089352861046791,
+        "adapted_confidence": 0.11689230054616928,
+        "all_categories": {
+          "a photo of a cat": 0.44103094935417175,
+          "a photo of a dog": 0.15388111770153046,
+          "a photo of a fox": 0.04089352861046791,
+          "a photo of a wolf": 0.11422961950302124,
+          "a photo of a tiger": 0.24996483325958252
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.7790495753288269,
+        "adapted_confidence": 0.8606756329536438,
+        "all_categories": {
+          "a photo of a cat": 0.08351889997720718,
+          "a photo of a dog": 0.008606277406215668,
+          "a photo of a fox": 0.7790495753288269,
+          "a photo of a wolf": 0.11693396419286728,
+          "a photo of a tiger": 0.011891361325979233
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9664562344551086,
+        "importance_map": {
+          "grid_0_0": 0.0070323944091796875,
+          "grid_0_1": 0.08369195461273193,
+          "grid_0_2": 0.019666194915771484,
+          "grid_0_3": 0.003757178783416748,
+          "grid_1_0": 0.1291552186012268,
+          "grid_1_1": 0.05119413137435913,
+          "grid_1_2": -0.012088954448699951,
+          "grid_1_3": -0.004705905914306641,
+          "grid_2_0": -0.0048923492431640625,
+          "grid_2_1": 0.0029456615447998047,
+          "grid_2_2": -0.006890654563903809,
+          "grid_2_3": -0.003529787063598633,
+          "grid_3_0": -0.0018873214721679688,
+          "grid_3_1": 0.02006685733795166,
+          "grid_3_2": 0.01902782917022705,
+          "grid_3_3": -0.003155231475830078
+        },
+        "pattern": "Local-Focused",
+        "decisive_regions": [
+          "grid_1_0",
+          "grid_0_1",
+          "grid_1_1"
+        ],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\fox\\fox_4.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.2831321954727173,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.002197769470512867,
+          "a photo of a dog": 0.14936816692352295,
+          "a photo of a fox": 0.2831321954727173,
+          "a photo of a wolf": 0.5651349425315857,
+          "a photo of a tiger": 0.00016689342737663537
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.1155567392706871,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0036570881493389606,
+          "a photo of a dog": 0.07449273020029068,
+          "a photo of a fox": 0.1155567392706871,
+          "a photo of a wolf": 0.8056139945983887,
+          "a photo of a tiger": 0.0006794377113692462
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.08541116863489151,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.06892140954732895,
+          "a photo of a dog": 0.23591731488704681,
+          "a photo of a fox": 0.08541116863489151,
+          "a photo of a wolf": 0.6034042835235596,
+          "a photo of a tiger": 0.006345848552882671
+        }
+      },
+      "center": {
+        "base_confidence": 0.6251477003097534,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.07352406531572342,
+          "a photo of a dog": 0.14777755737304688,
+          "a photo of a fox": 0.6251477003097534,
+          "a photo of a wolf": 0.15230140089988708,
+          "a photo of a tiger": 0.0012492999667301774
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.01732959970831871,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.01881738193333149,
+          "a photo of a dog": 0.8872517943382263,
+          "a photo of a fox": 0.01732959970831871,
+          "a photo of a wolf": 0.07622908055782318,
+          "a photo of a tiger": 0.00037220556987449527
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.07460655272006989,
+        "adapted_confidence": 0.19955597817897797,
+        "all_categories": {
+          "a photo of a cat": 0.15830852091312408,
+          "a photo of a dog": 0.26033642888069153,
+          "a photo of a fox": 0.07460655272006989,
+          "a photo of a wolf": 0.4013294279575348,
+          "a photo of a tiger": 0.10541900247335434
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.041230812668800354,
+        "adapted_confidence": 0.07415870577096939,
+        "all_categories": {
+          "a photo of a cat": 0.1919662207365036,
+          "a photo of a dog": 0.48878657817840576,
+          "a photo of a fox": 0.041230812668800354,
+          "a photo of a wolf": 0.2055039256811142,
+          "a photo of a tiger": 0.07251237332820892
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.2831321954727173,
+        "importance_map": {
+          "grid_0_0": 0.026744753122329712,
+          "grid_0_1": -0.2442995309829712,
+          "grid_0_2": -0.32971805334091187,
+          "grid_0_3": 0.11568583548069,
+          "grid_1_0": 0.08301489055156708,
+          "grid_1_1": -0.1227041482925415,
+          "grid_1_2": 0.19444799423217773,
+          "grid_1_3": 0.20325946807861328,
+          "grid_2_0": 0.02055111527442932,
+          "grid_2_1": 0.0683734267950058,
+          "grid_2_2": -0.0013782083988189697,
+          "grid_2_3": 0.04109317064285278,
+          "grid_3_0": 0.026525795459747314,
+          "grid_3_1": -0.11014172434806824,
+          "grid_3_2": 0.10388985276222229,
+          "grid_3_3": 0.017930269241333008
+        },
+        "pattern": "Interference-Present",
+        "decisive_regions": [
+          "grid_1_3",
+          "grid_1_2",
+          "grid_0_3"
+        ],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\fox\\fox_5.jpg"
+    }
+  ],
+  "wolf": [
+    {
+      "full": {
+        "base_confidence": 0.9824621677398682,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00020497446530498564,
+          "a photo of a dog": 0.011018037796020508,
+          "a photo of a fox": 0.006243450101464987,
+          "a photo of a wolf": 0.9824621677398682,
+          "a photo of a tiger": 7.135229679988697e-05
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9510149359703064,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0016236914088949561,
+          "a photo of a dog": 0.009522991254925728,
+          "a photo of a fox": 0.03747362270951271,
+          "a photo of a wolf": 0.9510149359703064,
+          "a photo of a tiger": 0.0003647448611445725
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.6674404740333557,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.004710809793323278,
+          "a photo of a dog": 0.1613989621400833,
+          "a photo of a fox": 0.16429151594638824,
+          "a photo of a wolf": 0.6674404740333557,
+          "a photo of a tiger": 0.002158255549147725
+        }
+      },
+      "center": {
+        "base_confidence": 0.9799864888191223,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0001481145591242239,
+          "a photo of a dog": 0.007745789829641581,
+          "a photo of a fox": 0.012018375098705292,
+          "a photo of a wolf": 0.9799864888191223,
+          "a photo of a tiger": 0.00010118680802406743
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.7610015869140625,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.07105064392089844,
+          "a photo of a dog": 0.0652129203081131,
+          "a photo of a fox": 0.101028211414814,
+          "a photo of a wolf": 0.7610015869140625,
+          "a photo of a tiger": 0.0017066721338778734
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.02183534950017929,
+        "adapted_confidence": 0.05404604971408844,
+        "all_categories": {
+          "a photo of a cat": 0.5767606496810913,
+          "a photo of a dog": 0.3153992295265198,
+          "a photo of a fox": 0.0022850744426250458,
+          "a photo of a wolf": 0.02183534950017929,
+          "a photo of a tiger": 0.08371973037719727
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.7449820637702942,
+        "adapted_confidence": 0.9380810856819153,
+        "all_categories": {
+          "a photo of a cat": 0.00748499296605587,
+          "a photo of a dog": 0.22805725038051605,
+          "a photo of a fox": 0.015414085239171982,
+          "a photo of a wolf": 0.7449820637702942,
+          "a photo of a tiger": 0.004061548504978418
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9824621677398682,
+        "importance_map": {
+          "grid_0_0": 0.005626082420349121,
+          "grid_0_1": 0.016750812530517578,
+          "grid_0_2": 0.01035851240158081,
+          "grid_0_3": 0.004952371120452881,
+          "grid_1_0": 0.006588876247406006,
+          "grid_1_1": 0.03211921453475952,
+          "grid_1_2": 0.05569267272949219,
+          "grid_1_3": 0.039843976497650146,
+          "grid_2_0": 0.004218697547912598,
+          "grid_2_1": 0.0063904523849487305,
+          "grid_2_2": 0.06448465585708618,
+          "grid_2_3": 0.013295471668243408,
+          "grid_3_0": 0.0035288333892822266,
+          "grid_3_1": -0.0010398030281066895,
+          "grid_3_2": 0.007654726505279541,
+          "grid_3_3": 0.005531668663024902
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [
+          "grid_2_2",
+          "grid_1_2"
+        ],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\wolf\\wolf_1.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9925646781921387,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 4.136780262342654e-05,
+          "a photo of a dog": 0.005186839960515499,
+          "a photo of a fox": 0.0021300555672496557,
+          "a photo of a wolf": 0.9925646781921387,
+          "a photo of a tiger": 7.699537673033774e-05
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9860614538192749,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 9.3370872491505e-05,
+          "a photo of a dog": 0.011564199812710285,
+          "a photo of a fox": 0.001878902199678123,
+          "a photo of a wolf": 0.9860614538192749,
+          "a photo of a tiger": 0.00040215591434389353
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.8677953481674194,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.009812978096306324,
+          "a photo of a dog": 0.055226195603609085,
+          "a photo of a fox": 0.05093986913561821,
+          "a photo of a wolf": 0.8677953481674194,
+          "a photo of a tiger": 0.016225652769207954
+        }
+      },
+      "center": {
+        "base_confidence": 0.9734029769897461,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00012082049943273887,
+          "a photo of a dog": 0.008084174245595932,
+          "a photo of a fox": 0.01813310571014881,
+          "a photo of a wolf": 0.9734029769897461,
+          "a photo of a tiger": 0.0002589391660876572
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9199262857437134,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0004439760814420879,
+          "a photo of a dog": 0.06623854488134384,
+          "a photo of a fox": 0.012566288001835346,
+          "a photo of a wolf": 0.9199262857437134,
+          "a photo of a tiger": 0.0008248953381553292
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.1051097884774208,
+        "adapted_confidence": 0.15543454885482788,
+        "all_categories": {
+          "a photo of a cat": 0.19814753532409668,
+          "a photo of a dog": 0.4479253590106964,
+          "a photo of a fox": 0.022014986723661423,
+          "a photo of a wolf": 0.1051097884774208,
+          "a photo of a tiger": 0.22680234909057617
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.6586308479309082,
+        "adapted_confidence": 0.7630900144577026,
+        "all_categories": {
+          "a photo of a cat": 0.05779031291604042,
+          "a photo of a dog": 0.10416661202907562,
+          "a photo of a fox": 0.11501550674438477,
+          "a photo of a wolf": 0.6586308479309082,
+          "a photo of a tiger": 0.06439675390720367
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9925646781921387,
+        "importance_map": {
+          "grid_0_0": 0.008690893650054932,
+          "grid_0_1": 0.0015730857849121094,
+          "grid_0_2": 0.002284705638885498,
+          "grid_0_3": 0.0010890960693359375,
+          "grid_1_0": 0.002727806568145752,
+          "grid_1_1": 0.17005568742752075,
+          "grid_1_2": 0.03698539733886719,
+          "grid_1_3": 0.012667477130889893,
+          "grid_2_0": 0.0071032047271728516,
+          "grid_2_1": 0.03833913803100586,
+          "grid_2_2": 0.018305540084838867,
+          "grid_2_3": 0.005392968654632568,
+          "grid_3_0": -0.00041538476943969727,
+          "grid_3_1": 0.0018110275268554688,
+          "grid_3_2": 0.0015824437141418457,
+          "grid_3_3": 0.0014698505401611328
+        },
+        "pattern": "Local-Focused",
+        "decisive_regions": [
+          "grid_1_1"
+        ],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\wolf\\wolf_2.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.977861225605011,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00014830475265625864,
+          "a photo of a dog": 0.016468072310090065,
+          "a photo of a fox": 0.005189771763980389,
+          "a photo of a wolf": 0.977861225605011,
+          "a photo of a tiger": 0.0003325984871480614
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9754469990730286,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00022888586681801826,
+          "a photo of a dog": 0.015724435448646545,
+          "a photo of a fox": 0.008245143108069897,
+          "a photo of a wolf": 0.9754469990730286,
+          "a photo of a tiger": 0.0003545723157003522
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.774272620677948,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.004996796138584614,
+          "a photo of a dog": 0.18587788939476013,
+          "a photo of a fox": 0.018589338287711143,
+          "a photo of a wolf": 0.774272620677948,
+          "a photo of a tiger": 0.016263402998447418
+        }
+      },
+      "center": {
+        "base_confidence": 0.9884682297706604,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 4.427985550137237e-05,
+          "a photo of a dog": 0.008297906257212162,
+          "a photo of a fox": 0.003082109848037362,
+          "a photo of a wolf": 0.9884682297706604,
+          "a photo of a tiger": 0.00010746965563157573
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.6548081040382385,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.052778210490942,
+          "a photo of a dog": 0.08360929787158966,
+          "a photo of a fox": 0.17201681435108185,
+          "a photo of a wolf": 0.6548081040382385,
+          "a photo of a tiger": 0.036787547171115875
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.10468553006649017,
+        "adapted_confidence": 0.1898355782032013,
+        "all_categories": {
+          "a photo of a cat": 0.40396472811698914,
+          "a photo of a dog": 0.394632488489151,
+          "a photo of a fox": 0.01905156672000885,
+          "a photo of a wolf": 0.10468553006649017,
+          "a photo of a tiger": 0.07766566425561905
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.1518586128950119,
+        "adapted_confidence": 0.3316676616668701,
+        "all_categories": {
+          "a photo of a cat": 0.10245951265096664,
+          "a photo of a dog": 0.673042893409729,
+          "a photo of a fox": 0.04327796772122383,
+          "a photo of a wolf": 0.1518586128950119,
+          "a photo of a tiger": 0.029361020773649216
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.977861225605011,
+        "importance_map": {
+          "grid_0_0": 0.003587484359741211,
+          "grid_0_1": 0.042620062828063965,
+          "grid_0_2": 0.07468479871749878,
+          "grid_0_3": 0.005080103874206543,
+          "grid_1_0": -0.0009208917617797852,
+          "grid_1_1": 0.05806702375411987,
+          "grid_1_2": 0.15468305349349976,
+          "grid_1_3": 0.001102149486541748,
+          "grid_2_0": -0.003479897975921631,
+          "grid_2_1": -0.0011371374130249023,
+          "grid_2_2": 0.08749252557754517,
+          "grid_2_3": 0.007687270641326904,
+          "grid_3_0": 0.0018534660339355469,
+          "grid_3_1": 0.003305673599243164,
+          "grid_3_2": 0.00529247522354126,
+          "grid_3_3": 0.00023043155670166016
+        },
+        "pattern": "Local-Focused",
+        "decisive_regions": [
+          "grid_1_2",
+          "grid_2_2",
+          "grid_0_2"
+        ],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\wolf\\wolf_3.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9966011047363281,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 4.6937933802837506e-05,
+          "a photo of a dog": 0.0017625965410843492,
+          "a photo of a fox": 0.0014920550165697932,
+          "a photo of a wolf": 0.9966011047363281,
+          "a photo of a tiger": 9.727110591484234e-05
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.881413996219635,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0003529817331582308,
+          "a photo of a dog": 0.022723089903593063,
+          "a photo of a fox": 0.09418404847383499,
+          "a photo of a wolf": 0.881413996219635,
+          "a photo of a tiger": 0.0013259082334116101
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.8128002882003784,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0035904808901250362,
+          "a photo of a dog": 0.009071671403944492,
+          "a photo of a fox": 0.1724347472190857,
+          "a photo of a wolf": 0.8128002882003784,
+          "a photo of a tiger": 0.002102770609781146
+        }
+      },
+      "center": {
+        "base_confidence": 0.9340614676475525,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.002258142689242959,
+          "a photo of a dog": 0.014799046330153942,
+          "a photo of a fox": 0.039153873920440674,
+          "a photo of a wolf": 0.9340614676475525,
+          "a photo of a tiger": 0.00972739513963461
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.7364107370376587,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0553305484354496,
+          "a photo of a dog": 0.08534415811300278,
+          "a photo of a fox": 0.09905421733856201,
+          "a photo of a wolf": 0.7364107370376587,
+          "a photo of a tiger": 0.023860367015004158
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.8924018740653992,
+        "adapted_confidence": 0.9526363611221313,
+        "all_categories": {
+          "a photo of a cat": 0.000834212638437748,
+          "a photo of a dog": 0.09785645455121994,
+          "a photo of a fox": 0.003941385541111231,
+          "a photo of a wolf": 0.8924018740653992,
+          "a photo of a tiger": 0.004966012202203274
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.9774720072746277,
+        "adapted_confidence": 0.9928615689277649,
+        "all_categories": {
+          "a photo of a cat": 0.00019691129273269325,
+          "a photo of a dog": 0.011814278550446033,
+          "a photo of a fox": 0.010245449841022491,
+          "a photo of a wolf": 0.9774720072746277,
+          "a photo of a tiger": 0.00027135302661918104
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9966011047363281,
+        "importance_map": {
+          "grid_0_0": -2.5033950805664062e-06,
+          "grid_0_1": 0.0017051100730895996,
+          "grid_0_2": 0.0012149214744567871,
+          "grid_0_3": -0.00012993812561035156,
+          "grid_1_0": -0.000508725643157959,
+          "grid_1_1": 0.0025008320808410645,
+          "grid_1_2": 0.10234212875366211,
+          "grid_1_3": 0.011976480484008789,
+          "grid_2_0": 0.0007408261299133301,
+          "grid_2_1": 0.013965487480163574,
+          "grid_2_2": 0.030190229415893555,
+          "grid_2_3": 0.0017322301864624023,
+          "grid_3_0": 0.01123732328414917,
+          "grid_3_1": 0.004016458988189697,
+          "grid_3_2": 0.0008971095085144043,
+          "grid_3_3": 0.00106126070022583
+        },
+        "pattern": "Local-Focused",
+        "decisive_regions": [
+          "grid_1_2"
+        ],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\wolf\\wolf_4.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9736362099647522,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00010026054951595142,
+          "a photo of a dog": 0.024593008682131767,
+          "a photo of a fox": 0.0015133254928514361,
+          "a photo of a wolf": 0.9736362099647522,
+          "a photo of a tiger": 0.00015717009955551475
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9759899377822876,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00026655130204744637,
+          "a photo of a dog": 0.01804121769964695,
+          "a photo of a fox": 0.0050666965544223785,
+          "a photo of a wolf": 0.9759899377822876,
+          "a photo of a tiger": 0.0006356367375701666
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.9594515562057495,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0005358049529604614,
+          "a photo of a dog": 0.03369692713022232,
+          "a photo of a fox": 0.005712893325835466,
+          "a photo of a wolf": 0.9594515562057495,
+          "a photo of a tiger": 0.0006028148345649242
+        }
+      },
+      "center": {
+        "base_confidence": 0.9878692030906677,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00012632242578547448,
+          "a photo of a dog": 0.009971783496439457,
+          "a photo of a fox": 0.0017733710119500756,
+          "a photo of a wolf": 0.9878692030906677,
+          "a photo of a tiger": 0.00025926652597263455
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.8153518438339233,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0007988851866684854,
+          "a photo of a dog": 0.034279271960258484,
+          "a photo of a fox": 0.14929625391960144,
+          "a photo of a wolf": 0.8153518438339233,
+          "a photo of a tiger": 0.00027374763158150017
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.12204910814762115,
+        "adapted_confidence": 0.18463653326034546,
+        "all_categories": {
+          "a photo of a cat": 0.22771786153316498,
+          "a photo of a dog": 0.41116103529930115,
+          "a photo of a fox": 0.023568369448184967,
+          "a photo of a wolf": 0.12204910814762115,
+          "a photo of a tiger": 0.21550357341766357
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.3925558626651764,
+        "adapted_confidence": 0.5215736031532288,
+        "all_categories": {
+          "a photo of a cat": 0.05960512533783913,
+          "a photo of a dog": 0.21408778429031372,
+          "a photo of a fox": 0.2708548903465271,
+          "a photo of a wolf": 0.3925558626651764,
+          "a photo of a tiger": 0.06289626657962799
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9736362099647522,
+        "importance_map": {
+          "grid_0_0": 0.0031867027282714844,
+          "grid_0_1": 0.02119910717010498,
+          "grid_0_2": 0.007240355014801025,
+          "grid_0_3": 0.017194688320159912,
+          "grid_1_0": -2.980232238769531e-07,
+          "grid_1_1": 0.012613892555236816,
+          "grid_1_2": 0.07463127374649048,
+          "grid_1_3": 0.015930652618408203,
+          "grid_2_0": -0.006072521209716797,
+          "grid_2_1": 0.04286468029022217,
+          "grid_2_2": 0.050828516483306885,
+          "grid_2_3": 0.009990513324737549,
+          "grid_3_0": 0.009552419185638428,
+          "grid_3_1": 0.05387836694717407,
+          "grid_3_2": 0.008239984512329102,
+          "grid_3_3": 0.01750648021697998
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [
+          "grid_1_2",
+          "grid_3_1",
+          "grid_2_2"
+        ],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\wolf\\wolf_5.jpg"
+    }
+  ],
+  "tiger": [
+    {
+      "full": {
+        "base_confidence": 0.9993739724159241,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.000551072764210403,
+          "a photo of a dog": 3.4612945455592126e-05,
+          "a photo of a fox": 1.1239899322390556e-05,
+          "a photo of a wolf": 2.91243486572057e-05,
+          "a photo of a tiger": 0.9993739724159241
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9982563853263855,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0013749731006100774,
+          "a photo of a dog": 0.00023461048840545118,
+          "a photo of a fox": 5.853510810993612e-05,
+          "a photo of a wolf": 7.549302972620353e-05,
+          "a photo of a tiger": 0.9982563853263855
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.5364865064620972,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.03826729580760002,
+          "a photo of a dog": 0.03704949468374252,
+          "a photo of a fox": 0.07713843137025833,
+          "a photo of a wolf": 0.31105828285217285,
+          "a photo of a tiger": 0.5364865064620972
+        }
+      },
+      "center": {
+        "base_confidence": 0.9985912442207336,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0013201135443523526,
+          "a photo of a dog": 4.316065678722225e-05,
+          "a photo of a fox": 8.314211299875751e-06,
+          "a photo of a wolf": 3.713116529979743e-05,
+          "a photo of a tiger": 0.9985912442207336
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.36805689334869385,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.031313516199588776,
+          "a photo of a dog": 0.08614680171012878,
+          "a photo of a fox": 0.30260640382766724,
+          "a photo of a wolf": 0.21187634766101837,
+          "a photo of a tiger": 0.36805689334869385
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.08866827189922333,
+        "adapted_confidence": 0.2115449756383896,
+        "all_categories": {
+          "a photo of a cat": 0.31419387459754944,
+          "a photo of a dog": 0.43921133875846863,
+          "a photo of a fox": 0.02615441009402275,
+          "a photo of a wolf": 0.13177207112312317,
+          "a photo of a tiger": 0.08866827189922333
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.39175915718078613,
+        "adapted_confidence": 0.6134489178657532,
+        "all_categories": {
+          "a photo of a cat": 0.1669684648513794,
+          "a photo of a dog": 0.13773749768733978,
+          "a photo of a fox": 0.20143505930900574,
+          "a photo of a wolf": 0.10209985077381134,
+          "a photo of a tiger": 0.39175915718078613
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9993739724159241,
+        "importance_map": {
+          "grid_0_0": 6.347894668579102e-05,
+          "grid_0_1": 9.191036224365234e-05,
+          "grid_0_2": 0.00016891956329345703,
+          "grid_0_3": 0.00032711029052734375,
+          "grid_1_0": -1.8894672393798828e-05,
+          "grid_1_1": 0.000783085823059082,
+          "grid_1_2": 0.0016651749610900879,
+          "grid_1_3": -9.489059448242188e-05,
+          "grid_2_0": 1.6689300537109375e-05,
+          "grid_2_1": 0.00036269426345825195,
+          "grid_2_2": 0.0007889866828918457,
+          "grid_2_3": 0.00012183189392089844,
+          "grid_3_0": -0.00014799833297729492,
+          "grid_3_1": 5.942583084106445e-05,
+          "grid_3_2": 0.00011038780212402344,
+          "grid_3_3": 2.372264862060547e-05
+        },
+        "pattern": "Global-Distributed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\tiger\\tiger_1.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9968968629837036,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0029112817719578743,
+          "a photo of a dog": 5.850680827279575e-05,
+          "a photo of a fox": 6.675368786090985e-05,
+          "a photo of a wolf": 6.653416494373232e-05,
+          "a photo of a tiger": 0.9968968629837036
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.997166097164154,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.002670826856046915,
+          "a photo of a dog": 8.265802898677066e-05,
+          "a photo of a fox": 4.652889765566215e-05,
+          "a photo of a wolf": 3.388017285033129e-05,
+          "a photo of a tiger": 0.997166097164154
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.977257251739502,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.01934504508972168,
+          "a photo of a dog": 0.0006506711360998452,
+          "a photo of a fox": 0.0019315979443490505,
+          "a photo of a wolf": 0.0008154911920428276,
+          "a photo of a tiger": 0.977257251739502
+        }
+      },
+      "center": {
+        "base_confidence": 0.9982597231864929,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.001396500039845705,
+          "a photo of a dog": 0.00014584136079065502,
+          "a photo of a fox": 0.00014549962361343205,
+          "a photo of a wolf": 5.2428487833822146e-05,
+          "a photo of a tiger": 0.9982597231864929
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9710966944694519,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.026621919125318527,
+          "a photo of a dog": 0.0009558865567669272,
+          "a photo of a fox": 0.0007365079363808036,
+          "a photo of a wolf": 0.000589012517593801,
+          "a photo of a tiger": 0.9710966944694519
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.32374778389930725,
+        "adapted_confidence": 0.4298626482486725,
+        "all_categories": {
+          "a photo of a cat": 0.1971157193183899,
+          "a photo of a dog": 0.3270321488380432,
+          "a photo of a fox": 0.012973174452781677,
+          "a photo of a wolf": 0.13913121819496155,
+          "a photo of a tiger": 0.32374778389930725
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.6831886768341064,
+        "adapted_confidence": 0.8285885453224182,
+        "all_categories": {
+          "a photo of a cat": 0.06662938743829727,
+          "a photo of a dog": 0.015474779531359673,
+          "a photo of a fox": 0.2190764844417572,
+          "a photo of a wolf": 0.01563066430389881,
+          "a photo of a tiger": 0.6831886768341064
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9968968629837036,
+        "importance_map": {
+          "grid_0_0": 0.0022785067558288574,
+          "grid_0_1": 0.0006368160247802734,
+          "grid_0_2": -0.0004061460494995117,
+          "grid_0_3": 0.0006145834922790527,
+          "grid_1_0": 0.0006992220878601074,
+          "grid_1_1": -0.0007932186126708984,
+          "grid_1_2": -0.0011286735534667969,
+          "grid_1_3": 0.001451730728149414,
+          "grid_2_0": 0.0010027885437011719,
+          "grid_2_1": 0.003126680850982666,
+          "grid_2_2": 0.00285947322845459,
+          "grid_2_3": -0.00010317564010620117,
+          "grid_3_0": 0.00017154216766357422,
+          "grid_3_1": 0.0008220076560974121,
+          "grid_3_2": 0.0004411935806274414,
+          "grid_3_3": -0.00021374225616455078
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\tiger\\tiger_2.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9909379482269287,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.008613006211817265,
+          "a photo of a dog": 0.000344875268638134,
+          "a photo of a fox": 6.6652282839640975e-06,
+          "a photo of a wolf": 9.749479067977518e-05,
+          "a photo of a tiger": 0.9909379482269287
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9962235689163208,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0034584382083266973,
+          "a photo of a dog": 0.00022742839064449072,
+          "a photo of a fox": 1.0024959919974208e-05,
+          "a photo of a wolf": 8.057989907683805e-05,
+          "a photo of a tiger": 0.9962235689163208
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.9936874508857727,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.005715182051062584,
+          "a photo of a dog": 0.0003528199449647218,
+          "a photo of a fox": 9.184475857182406e-06,
+          "a photo of a wolf": 0.00023538045934401453,
+          "a photo of a tiger": 0.9936874508857727
+        }
+      },
+      "center": {
+        "base_confidence": 0.9465458393096924,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.051395390182733536,
+          "a photo of a dog": 0.0010079641360789537,
+          "a photo of a fox": 0.00013120872608851641,
+          "a photo of a wolf": 0.0009196262690238655,
+          "a photo of a tiger": 0.9465458393096924
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9948164820671082,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0042875525541603565,
+          "a photo of a dog": 0.0007058237679302692,
+          "a photo of a fox": 1.1968500075454358e-05,
+          "a photo of a wolf": 0.00017814866441767663,
+          "a photo of a tiger": 0.9948164820671082
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.20547953248023987,
+        "adapted_confidence": 0.4322653114795685,
+        "all_categories": {
+          "a photo of a cat": 0.297320693731308,
+          "a photo of a dog": 0.31836098432540894,
+          "a photo of a fox": 0.020823054015636444,
+          "a photo of a wolf": 0.15801578760147095,
+          "a photo of a tiger": 0.20547953248023987
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.06889934837818146,
+        "adapted_confidence": 0.16496850550174713,
+        "all_categories": {
+          "a photo of a cat": 0.10638660937547684,
+          "a photo of a dog": 0.5834647417068481,
+          "a photo of a fox": 0.03584787994623184,
+          "a photo of a wolf": 0.2054014354944229,
+          "a photo of a tiger": 0.06889934837818146
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9909379482269287,
+        "importance_map": {
+          "grid_0_0": 0.00012791156768798828,
+          "grid_0_1": 0.0021904706954956055,
+          "grid_0_2": 0.0018041729927062988,
+          "grid_0_3": 0.004040360450744629,
+          "grid_1_0": 0.0003235340118408203,
+          "grid_1_1": -0.002231001853942871,
+          "grid_1_2": 0.007895827293395996,
+          "grid_1_3": 0.007355451583862305,
+          "grid_2_0": 5.7697296142578125e-05,
+          "grid_2_1": 0.007791340351104736,
+          "grid_2_2": 0.0031257271766662598,
+          "grid_2_3": 0.00010132789611816406,
+          "grid_3_0": -0.00026720762252807617,
+          "grid_3_1": 0.0059452056884765625,
+          "grid_3_2": 0.0007091760635375977,
+          "grid_3_3": 0.001714468002319336
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\tiger\\tiger_3.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9969133138656616,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.002915519755333662,
+          "a photo of a dog": 0.0001079399444279261,
+          "a photo of a fox": 1.7151342035504058e-05,
+          "a photo of a wolf": 4.60030569229275e-05,
+          "a photo of a tiger": 0.9969133138656616
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.9948524832725525,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.00466602249071002,
+          "a photo of a dog": 0.00023599964333698153,
+          "a photo of a fox": 6.390767521224916e-05,
+          "a photo of a wolf": 0.00018161971820518374,
+          "a photo of a tiger": 0.9948524832725525
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.995945155620575,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0037265934515744448,
+          "a photo of a dog": 0.0002145387843484059,
+          "a photo of a fox": 3.9957219996722415e-05,
+          "a photo of a wolf": 7.378245936706662e-05,
+          "a photo of a tiger": 0.995945155620575
+        }
+      },
+      "center": {
+        "base_confidence": 0.9977200627326965,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.0019949774723500013,
+          "a photo of a dog": 0.0001635875814827159,
+          "a photo of a fox": 2.398865944996942e-05,
+          "a photo of a wolf": 9.737809159560129e-05,
+          "a photo of a tiger": 0.9977200627326965
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9788179397583008,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.019535653293132782,
+          "a photo of a dog": 0.001144588110037148,
+          "a photo of a fox": 7.876356539782137e-05,
+          "a photo of a wolf": 0.0004230193153489381,
+          "a photo of a tiger": 0.9788179397583008
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.2544930577278137,
+        "adapted_confidence": 0.4081631004810333,
+        "all_categories": {
+          "a photo of a cat": 0.11559919267892838,
+          "a photo of a dog": 0.4243260324001312,
+          "a photo of a fox": 0.011468597687780857,
+          "a photo of a wolf": 0.19411319494247437,
+          "a photo of a tiger": 0.2544930577278137
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.10958276689052582,
+        "adapted_confidence": 0.22247299551963806,
+        "all_categories": {
+          "a photo of a cat": 0.10664261877536774,
+          "a photo of a dog": 0.5076962113380432,
+          "a photo of a fox": 0.060059804469347,
+          "a photo of a wolf": 0.21601857244968414,
+          "a photo of a tiger": 0.10958276689052582
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9969133138656616,
+        "importance_map": {
+          "grid_0_0": 0.0007036924362182617,
+          "grid_0_1": -0.0008127093315124512,
+          "grid_0_2": 0.002360105514526367,
+          "grid_0_3": 0.0011693835258483887,
+          "grid_1_0": -0.00013512372970581055,
+          "grid_1_1": 0.0006313920021057129,
+          "grid_1_2": 0.009774982929229736,
+          "grid_1_3": 0.0015866756439208984,
+          "grid_2_0": 0.0002955794334411621,
+          "grid_2_1": 4.881620407104492e-05,
+          "grid_2_2": 0.009864389896392822,
+          "grid_2_3": 0.00046700239181518555,
+          "grid_3_0": 0.000941932201385498,
+          "grid_3_1": 0.00228804349899292,
+          "grid_3_2": 0.003589928150177002,
+          "grid_3_3": 0.00025856494903564453
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\tiger\\tiger_4.jpg"
+    },
+    {
+      "full": {
+        "base_confidence": 0.9944631457328796,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.005238558165729046,
+          "a photo of a dog": 0.0001692806981736794,
+          "a photo of a fox": 1.597433765709866e-05,
+          "a photo of a wolf": 0.00011302904022159055,
+          "a photo of a tiger": 0.9944631457328796
+        }
+      },
+      "top_half": {
+        "base_confidence": 0.990939736366272,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.008212962187826633,
+          "a photo of a dog": 0.00018186304077971727,
+          "a photo of a fox": 4.714404349215329e-05,
+          "a photo of a wolf": 0.0006182685610838234,
+          "a photo of a tiger": 0.990939736366272
+        }
+      },
+      "bottom_half": {
+        "base_confidence": 0.8372237086296082,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.1301315277814865,
+          "a photo of a dog": 0.012938132509589195,
+          "a photo of a fox": 0.004822847433388233,
+          "a photo of a wolf": 0.014883776195347309,
+          "a photo of a tiger": 0.8372237086296082
+        }
+      },
+      "center": {
+        "base_confidence": 0.9651814103126526,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.03361416608095169,
+          "a photo of a dog": 0.00042203726479783654,
+          "a photo of a fox": 0.00011912829359062016,
+          "a photo of a wolf": 0.0006632641889154911,
+          "a photo of a tiger": 0.9651814103126526
+        }
+      },
+      "edges_only": {
+        "base_confidence": 0.9935500621795654,
+        "adapted_confidence": null,
+        "all_categories": {
+          "a photo of a cat": 0.003947078250348568,
+          "a photo of a dog": 0.0014963255962356925,
+          "a photo of a fox": 4.641715349862352e-05,
+          "a photo of a wolf": 0.0009600991033948958,
+          "a photo of a tiger": 0.9935500621795654
+        }
+      },
+      "silhouette": {
+        "base_confidence": 0.9903601408004761,
+        "adapted_confidence": 0.9985180497169495,
+        "all_categories": {
+          "a photo of a cat": 0.008501257747411728,
+          "a photo of a dog": 0.00019942047947552055,
+          "a photo of a fox": 0.0001734463294269517,
+          "a photo of a wolf": 0.0007657643873244524,
+          "a photo of a tiger": 0.9903601408004761
+        }
+      },
+      "blurry": {
+        "base_confidence": 0.9963011741638184,
+        "adapted_confidence": 0.9994789958000183,
+        "all_categories": {
+          "a photo of a cat": 0.0029921545647084713,
+          "a photo of a dog": 0.00032526321592740715,
+          "a photo of a fox": 6.898148421896622e-05,
+          "a photo of a wolf": 0.00031238459632731974,
+          "a photo of a tiger": 0.9963011741638184
+        }
+      },
+      "grid_analysis": {
+        "full_confidence": 0.9944631457328796,
+        "importance_map": {
+          "grid_0_0": -0.00022178888320922852,
+          "grid_0_1": 0.0023610591888427734,
+          "grid_0_2": 0.0009351968765258789,
+          "grid_0_3": 0.0007301568984985352,
+          "grid_1_0": -0.0004500746726989746,
+          "grid_1_1": -0.0008613467216491699,
+          "grid_1_2": 0.005238533020019531,
+          "grid_1_3": 0.0004500150680541992,
+          "grid_2_0": -0.0001291036605834961,
+          "grid_2_1": 0.0004202127456665039,
+          "grid_2_2": 0.007546722888946533,
+          "grid_2_3": 0.0018112659454345703,
+          "grid_3_0": 0.002069413661956787,
+          "grid_3_1": 0.006518185138702393,
+          "grid_3_2": 0.0023686885833740234,
+          "grid_3_3": 0.0008335113525390625
+        },
+        "pattern": "Mixed",
+        "decisive_regions": [],
+        "grid_size": 4
+      },
+      "image_path": "C:\\Users\\rlawj\\Desktop\\project\\data\\images\\tiger\\tiger_5.jpg"
+    }
+  ]
+}
