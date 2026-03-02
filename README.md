@@ -107,33 +107,6 @@ Fox shows a massive silhouette drop but low per-cell importance. Its recognition
 **5. Correct label does not imply correct grounding.**
 Multiple images were classified correctly while attention was concentrated on background or irrelevant regions. Accuracy alone does not indicate that the model is looking at the right thing.
 
----
-
-## Setup
-
-```bash
-pip install torch transformers pillow opencv-python matplotlib numpy tqdm
-python run_all.py
-```
-
-## Repository Structure
-
-```
-VLM-Attention-Behavior/
-├── run_all.py
-├── download_images.py
-├── variants.py
-├── clip_eval.py
-├── analysis.py
-├── gradcam_viz.py
-├── data/images/{cat,dog,fox,wolf,tiger}/
-└── results/
-    ├── confidence_bars.png
-    ├── pattern_distribution.png
-    ├── pattern_summary.png
-    ├── importance_maps/
-    └── gradcam/
-```
 
 ---
 
